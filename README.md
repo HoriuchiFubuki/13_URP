@@ -1,9 +1,9 @@
 # URP
 シェーダグラフでシェーダを描いてみよう
 
-![結果画像](result.png)
+![result](https://user-images.githubusercontent.com/38420405/104982242-98f35e80-5a4d-11eb-9a9c-64e820a9c455.png)
+![node_graph](https://user-images.githubusercontent.com/38420405/104982214-88db7f00-5a4d-11eb-83dd-d04f8ce6c627.png)
 
-![シェーダ](node_graph.png)
 
 # 自分なりに変更した点
 -ランダムで変えれる迷路みたいな模様の制作
